@@ -14,9 +14,7 @@ Sunday = []
 
 days = [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday] # Creating a dictionary for the lists
 
-# Day Map allows me to avoid writing the same function multiple times, for each day. 
-# This allows to write just one function that will work for all the days.
-# Used for the remove_task() function.
+# Needed for the remove_task() function.
 day_map = {
     "1": ("Monday", Monday),
     "monday": ("Monday", Monday),

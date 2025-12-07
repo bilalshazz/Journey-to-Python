@@ -1,4 +1,4 @@
-# Welcome to my RPS game.
+# Rock, Paper, Scissors Game.
 
 import random
 
